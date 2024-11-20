@@ -63,5 +63,22 @@ namespace clase_dif
                         label6.Text += a.nume + " " + a.prenume + "\n";
             }
         }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            for(int i=0;i<Variabile.l.Count;i++)
+                for(int j=i+1;j<Variabile.l.Count;j++)
+                    if (Variabile.l[i].venit < Variabile.l[j].venit)
+                    {
+                        Angajat aux = Variabile.l[i];
+                        Variabile.l[i] = Variabile.l[j];
+                        Variabile.l[j] = aux;
+                    }
+            label8.Text = "";
+            foreach (Angajat a in Variabile.l)
+                label8.Text += a.venit.ToString();
+        }
+
+        
     }
 }
