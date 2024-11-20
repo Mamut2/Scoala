@@ -46,5 +46,22 @@ namespace clase_dif
                     comboBox1.Items.Add(a.departament);
             }
         }
+
+        private void tabPage3_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void comboBox1_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            label6.Text = "";
+            if (comboBox1.SelectedIndex != -1)
+            {
+                string departament = comboBox1.SelectedItem.ToString();
+                foreach (Angajat a in Variabile.l)
+                    if (a.departament == departament)
+                        label6.Text += a.nume + " " + a.prenume + "\n";
+            }
+        }
     }
 }
