@@ -80,18 +80,5 @@ namespace clase_dif
         }
 
         
-=======
-        private void button2_Click(object sender, EventArgs e)
-        {
-            label8.Text = "";
-            foreach (Angajat a in Variabile.l)
-            {
-                if (a.dn.DayOfYear == DateTime.Today.DayOfYear)
-                {
-                    label8.Text += a.nume + " " + a.prenume + "\n";
-                }
-            }
-        }
->>>>>>> 175adb7 (Sarbatoriti)
     }
 }

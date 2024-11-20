@@ -10,8 +10,6 @@ namespace clase_dif
         public string nume, prenume, departament;
         public double venit;
         DateTime dn;
-        double venit;
-        public DateTime dn;
 
         public Angajat(string nume, string prenume, string departament, double venit, DateTime dn)
         {
