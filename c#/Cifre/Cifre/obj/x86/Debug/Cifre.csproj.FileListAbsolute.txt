@@ -1,0 +1,4 @@
+D:\users\vuscan david\c#\Cifre\Cifre\bin\Debug\Cifre.exe
+D:\users\vuscan david\c#\Cifre\Cifre\bin\Debug\Cifre.pdb
+D:\users\vuscan david\c#\Cifre\Cifre\obj\x86\Debug\Cifre.exe
+D:\users\vuscan david\c#\Cifre\Cifre\obj\x86\Debug\Cifre.pdb

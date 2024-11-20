@@ -1,0 +1,4 @@
+D:\users\vuscan david\c#\E\E\bin\Debug\E.exe
+D:\users\vuscan david\c#\E\E\bin\Debug\E.pdb
+D:\users\vuscan david\c#\E\E\obj\x86\Debug\E.exe
+D:\users\vuscan david\c#\E\E\obj\x86\Debug\E.pdb

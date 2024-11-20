@@ -1,0 +1,7 @@
+D:\users\vuscan david\c#\Elevi\Elevi\bin\Debug\Elevi.exe
+D:\users\vuscan david\c#\Elevi\Elevi\bin\Debug\Elevi.pdb
+D:\users\vuscan david\c#\Elevi\Elevi\obj\x86\Debug\Elevi.Form1.resources
+D:\users\vuscan david\c#\Elevi\Elevi\obj\x86\Debug\Elevi.Properties.Resources.resources
+D:\users\vuscan david\c#\Elevi\Elevi\obj\x86\Debug\Elevi.csproj.GenerateResource.Cache
+D:\users\vuscan david\c#\Elevi\Elevi\obj\x86\Debug\Elevi.exe
+D:\users\vuscan david\c#\Elevi\Elevi\obj\x86\Debug\Elevi.pdb

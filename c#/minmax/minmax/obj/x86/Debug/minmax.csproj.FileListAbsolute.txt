@@ -1,0 +1,4 @@
+D:\users\vuscan david\c#\minmax\minmax\bin\Debug\minmax.exe
+D:\users\vuscan david\c#\minmax\minmax\bin\Debug\minmax.pdb
+D:\users\vuscan david\c#\minmax\minmax\obj\x86\Debug\minmax.exe
+D:\users\vuscan david\c#\minmax\minmax\obj\x86\Debug\minmax.pdb

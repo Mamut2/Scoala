@@ -1,0 +1,4 @@
+D:\users\vuscan david\c#\prefix_si_sufix\prefix_si_sufix\bin\Debug\prefix_si_sufix.exe
+D:\users\vuscan david\c#\prefix_si_sufix\prefix_si_sufix\bin\Debug\prefix_si_sufix.pdb
+D:\users\vuscan david\c#\prefix_si_sufix\prefix_si_sufix\obj\x86\Debug\prefix_si_sufix.exe
+D:\users\vuscan david\c#\prefix_si_sufix\prefix_si_sufix\obj\x86\Debug\prefix_si_sufix.pdb

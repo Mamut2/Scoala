@@ -1,0 +1,7 @@
+D:\users\vuscan david\c#\clase_dif\clase_dif\bin\Debug\clase_dif.exe
+D:\users\vuscan david\c#\clase_dif\clase_dif\bin\Debug\clase_dif.pdb
+D:\users\vuscan david\c#\clase_dif\clase_dif\obj\x86\Debug\clase_dif.Form1.resources
+D:\users\vuscan david\c#\clase_dif\clase_dif\obj\x86\Debug\clase_dif.Properties.Resources.resources
+D:\users\vuscan david\c#\clase_dif\clase_dif\obj\x86\Debug\clase_dif.csproj.GenerateResource.Cache
+D:\users\vuscan david\c#\clase_dif\clase_dif\obj\x86\Debug\clase_dif.exe
+D:\users\vuscan david\c#\clase_dif\clase_dif\obj\x86\Debug\clase_dif.pdb

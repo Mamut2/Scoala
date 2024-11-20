@@ -1,0 +1,7 @@
+D:\users\vuscan david\c#\Pong\Pong\bin\Debug\Pong.exe
+D:\users\vuscan david\c#\Pong\Pong\bin\Debug\Pong.pdb
+D:\users\vuscan david\c#\Pong\Pong\obj\x86\Debug\Pong.Form1.resources
+D:\users\vuscan david\c#\Pong\Pong\obj\x86\Debug\Pong.Properties.Resources.resources
+D:\users\vuscan david\c#\Pong\Pong\obj\x86\Debug\Pong.csproj.GenerateResource.Cache
+D:\users\vuscan david\c#\Pong\Pong\obj\x86\Debug\Pong.exe
+D:\users\vuscan david\c#\Pong\Pong\obj\x86\Debug\Pong.pdb

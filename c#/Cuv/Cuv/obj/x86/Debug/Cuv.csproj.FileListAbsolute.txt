@@ -1,0 +1,4 @@
+D:\users\vuscan david\c#\Cuv\Cuv\bin\Debug\Cuv.exe
+D:\users\vuscan david\c#\Cuv\Cuv\bin\Debug\Cuv.pdb
+D:\users\vuscan david\c#\Cuv\Cuv\obj\x86\Debug\Cuv.exe
+D:\users\vuscan david\c#\Cuv\Cuv\obj\x86\Debug\Cuv.pdb

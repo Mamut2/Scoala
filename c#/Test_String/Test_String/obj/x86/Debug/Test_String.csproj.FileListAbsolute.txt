@@ -1,0 +1,4 @@
+D:\users\vuscan david\c#\Test_String\Test_String\bin\Debug\Test_String.exe
+D:\users\vuscan david\c#\Test_String\Test_String\bin\Debug\Test_String.pdb
+D:\users\vuscan david\c#\Test_String\Test_String\obj\x86\Debug\Test_String.exe
+D:\users\vuscan david\c#\Test_String\Test_String\obj\x86\Debug\Test_String.pdb

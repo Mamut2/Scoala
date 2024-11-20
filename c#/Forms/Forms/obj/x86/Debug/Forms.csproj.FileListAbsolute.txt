@@ -1,0 +1,7 @@
+D:\users\vuscan david\c#\Forms\Forms\bin\Debug\Forms.exe
+D:\users\vuscan david\c#\Forms\Forms\bin\Debug\Forms.pdb
+D:\users\vuscan david\c#\Forms\Forms\obj\x86\Debug\Forms.Form1.resources
+D:\users\vuscan david\c#\Forms\Forms\obj\x86\Debug\Forms.Properties.Resources.resources
+D:\users\vuscan david\c#\Forms\Forms\obj\x86\Debug\Forms.csproj.GenerateResource.Cache
+D:\users\vuscan david\c#\Forms\Forms\obj\x86\Debug\Forms.exe
+D:\users\vuscan david\c#\Forms\Forms\obj\x86\Debug\Forms.pdb

@@ -1,0 +1,4 @@
+D:\users\vuscan david\c#\siruri de caractere\siruri de caractere\bin\Debug\siruri de caractere.exe
+D:\users\vuscan david\c#\siruri de caractere\siruri de caractere\bin\Debug\siruri de caractere.pdb
+D:\users\vuscan david\c#\siruri de caractere\siruri de caractere\obj\x86\Debug\siruri de caractere.exe
+D:\users\vuscan david\c#\siruri de caractere\siruri de caractere\obj\x86\Debug\siruri de caractere.pdb

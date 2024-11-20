@@ -1,0 +1,4 @@
+D:\users\vuscan david\c#\CitiriAfisari\CitiriAfisari\bin\Debug\CitiriAfisari.exe
+D:\users\vuscan david\c#\CitiriAfisari\CitiriAfisari\bin\Debug\CitiriAfisari.pdb
+D:\users\vuscan david\c#\CitiriAfisari\CitiriAfisari\obj\x86\Debug\CitiriAfisari.exe
+D:\users\vuscan david\c#\CitiriAfisari\CitiriAfisari\obj\x86\Debug\CitiriAfisari.pdb
