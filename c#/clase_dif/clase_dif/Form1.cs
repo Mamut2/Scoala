@@ -64,6 +64,7 @@ namespace clase_dif
             }
         }
 
+<<<<<<< HEAD
         private void button3_Click(object sender, EventArgs e)
         {
             for(int i=0;i<Variabile.l.Count;i++)
@@ -80,5 +81,18 @@ namespace clase_dif
         }
 
         
+=======
+        private void button2_Click(object sender, EventArgs e)
+        {
+            label8.Text = "";
+            foreach (Angajat a in Variabile.l)
+            {
+                if (a.dn.DayOfYear == DateTime.Today.DayOfYear)
+                {
+                    label8.Text += a.nume + " " + a.prenume + "\n";
+                }
+            }
+        }
+>>>>>>> 175adb7 (Sarbatoriti)
     }
 }
