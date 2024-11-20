@@ -64,7 +64,6 @@ namespace clase_dif
             }
         }
 
-<<<<<<< HEAD
         private void button3_Click(object sender, EventArgs e)
         {
             for(int i=0;i<Variabile.l.Count;i++)
