@@ -9,7 +9,7 @@ namespace clase_dif
     {
         public string nume, prenume, departament;
         double venit;
-        DateTime dn;
+        public DateTime dn;
 
         public Angajat(string nume, string prenume, string departament, double venit, DateTime dn)
         {

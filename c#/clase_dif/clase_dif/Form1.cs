@@ -63,5 +63,17 @@ namespace clase_dif
                         label6.Text += a.nume + " " + a.prenume + "\n";
             }
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            label8.Text = "";
+            foreach (Angajat a in Variabile.l)
+            {
+                if (a.dn.DayOfYear == DateTime.Today.DayOfYear)
+                {
+                    label8.Text += a.nume + " " + a.prenume + "\n";
+                }
+            }
+        }
     }
 }
