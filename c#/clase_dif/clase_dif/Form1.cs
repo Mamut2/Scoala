@@ -36,5 +36,15 @@ namespace clase_dif
         {
 
         }
+
+        private void tabPage3_Enter(object sender, EventArgs e)
+        {
+            comboBox1.Items.Clear();
+            foreach (Angajat a in Variabile.l)
+            {
+                if (comboBox1.Items.Contains(a.departament) == false)
+                    comboBox1.Items.Add(a.departament);
+            }
+        }
     }
 }
