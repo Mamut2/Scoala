@@ -94,6 +94,17 @@
             this.columnHeader25 = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
             this.columnHeader26 = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
             this.columnHeader27 = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
+            this.tabPage7 = new System.Windows.Forms.TabPage();
+            this.listView5 = new System.Windows.Forms.ListView();
+            this.columnHeader28 = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
+            this.columnHeader29 = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
+            this.columnHeader30 = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
+            this.columnHeader31 = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
+            this.columnHeader32 = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
+            this.columnHeader33 = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
+            this.columnHeader34 = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
+            this.columnHeader35 = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
+            this.columnHeader36 = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
             this.tabControl1.SuspendLayout();
             this.tabPage1.SuspendLayout();
             this.tabPage2.SuspendLayout();
@@ -102,6 +113,7 @@
             this.tabPage4.SuspendLayout();
             this.tabPage5.SuspendLayout();
             this.tabPage6.SuspendLayout();
+            this.tabPage7.SuspendLayout();
             this.SuspendLayout();
             // 
             // tabControl1
@@ -166,6 +178,7 @@
             this.checkBox3.TabIndex = 13;
             this.checkBox3.Text = "Matematica";
             this.checkBox3.UseVisualStyleBackColor = true;
+            this.checkBox3.CheckedChanged += new System.EventHandler(this.checkBox1_CheckedChanged);
             // 
             // checkBox2
             // 
@@ -176,6 +189,7 @@
             this.checkBox2.TabIndex = 12;
             this.checkBox2.Text = "Info";
             this.checkBox2.UseVisualStyleBackColor = true;
+            this.checkBox2.CheckedChanged += new System.EventHandler(this.checkBox1_CheckedChanged);
             // 
             // checkBox1
             // 
@@ -186,6 +200,7 @@
             this.checkBox1.TabIndex = 11;
             this.checkBox1.Text = "Romana";
             this.checkBox1.UseVisualStyleBackColor = true;
+            this.checkBox1.CheckedChanged += new System.EventHandler(this.checkBox1_CheckedChanged);
             // 
             // label5
             // 
@@ -313,6 +328,7 @@
             this.tabControl2.Controls.Add(this.tabPage4);
             this.tabControl2.Controls.Add(this.tabPage5);
             this.tabControl2.Controls.Add(this.tabPage6);
+            this.tabControl2.Controls.Add(this.tabPage7);
             this.tabControl2.Location = new System.Drawing.Point(3, 6);
             this.tabControl2.Name = "tabControl2";
             this.tabControl2.SelectedIndex = 0;
@@ -683,6 +699,91 @@
             this.columnHeader27.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             this.columnHeader27.Width = 95;
             // 
+            // tabPage7
+            // 
+            this.tabPage7.Controls.Add(this.listView5);
+            this.tabPage7.Location = new System.Drawing.Point(4, 22);
+            this.tabPage7.Name = "tabPage7";
+            this.tabPage7.Padding = new System.Windows.Forms.Padding(3);
+            this.tabPage7.Size = new System.Drawing.Size(748, 355);
+            this.tabPage7.TabIndex = 4;
+            this.tabPage7.Text = "Minori";
+            this.tabPage7.UseVisualStyleBackColor = true;
+            // 
+            // listView5
+            // 
+            this.listView5.BackColor = System.Drawing.Color.White;
+            this.listView5.Columns.AddRange(new System.Windows.Forms.ColumnHeader[] {
+            this.columnHeader28,
+            this.columnHeader29,
+            this.columnHeader30,
+            this.columnHeader31,
+            this.columnHeader32,
+            this.columnHeader33,
+            this.columnHeader34,
+            this.columnHeader35,
+            this.columnHeader36});
+            this.listView5.Location = new System.Drawing.Point(24, 18);
+            this.listView5.Name = "listView5";
+            this.listView5.Size = new System.Drawing.Size(700, 318);
+            this.listView5.TabIndex = 5;
+            this.listView5.UseCompatibleStateImageBehavior = false;
+            this.listView5.View = System.Windows.Forms.View.Details;
+            // 
+            // columnHeader28
+            // 
+            this.columnHeader28.Text = "Nume";
+            this.columnHeader28.Width = 77;
+            // 
+            // columnHeader29
+            // 
+            this.columnHeader29.Text = "Prenume";
+            this.columnHeader29.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.columnHeader29.Width = 78;
+            // 
+            // columnHeader30
+            // 
+            this.columnHeader30.Text = "Clasa";
+            this.columnHeader30.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.columnHeader30.Width = 45;
+            // 
+            // columnHeader31
+            // 
+            this.columnHeader31.Text = "Sex";
+            this.columnHeader31.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.columnHeader31.Width = 32;
+            // 
+            // columnHeader32
+            // 
+            this.columnHeader32.Text = "Data Nasterii";
+            this.columnHeader32.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.columnHeader32.Width = 79;
+            // 
+            // columnHeader33
+            // 
+            this.columnHeader33.Text = "Bursier";
+            this.columnHeader33.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            // 
+            // columnHeader34
+            // 
+            this.columnHeader34.Text = "Optionale";
+            this.columnHeader34.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.columnHeader34.Width = 200;
+            // 
+            // columnHeader35
+            // 
+            this.columnHeader35.DisplayIndex = 8;
+            this.columnHeader35.Text = "Medii";
+            this.columnHeader35.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.columnHeader35.Width = 200;
+            // 
+            // columnHeader36
+            // 
+            this.columnHeader36.DisplayIndex = 7;
+            this.columnHeader36.Text = "Media Generala";
+            this.columnHeader36.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.columnHeader36.Width = 95;
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -700,6 +801,7 @@
             this.tabPage4.ResumeLayout(false);
             this.tabPage5.ResumeLayout(false);
             this.tabPage6.ResumeLayout(false);
+            this.tabPage7.ResumeLayout(false);
             this.ResumeLayout(false);
 
         }
@@ -772,6 +874,17 @@
         private System.Windows.Forms.ColumnHeader columnHeader25;
         private System.Windows.Forms.ColumnHeader columnHeader26;
         private System.Windows.Forms.ColumnHeader columnHeader27;
+        private System.Windows.Forms.TabPage tabPage7;
+        private System.Windows.Forms.ListView listView5;
+        private System.Windows.Forms.ColumnHeader columnHeader28;
+        private System.Windows.Forms.ColumnHeader columnHeader29;
+        private System.Windows.Forms.ColumnHeader columnHeader30;
+        private System.Windows.Forms.ColumnHeader columnHeader31;
+        private System.Windows.Forms.ColumnHeader columnHeader32;
+        private System.Windows.Forms.ColumnHeader columnHeader33;
+        private System.Windows.Forms.ColumnHeader columnHeader34;
+        private System.Windows.Forms.ColumnHeader columnHeader35;
+        private System.Windows.Forms.ColumnHeader columnHeader36;
     }
 }
 
