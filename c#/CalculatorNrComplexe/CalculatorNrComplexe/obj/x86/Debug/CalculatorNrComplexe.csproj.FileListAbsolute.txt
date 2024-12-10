@@ -1,0 +1,7 @@
+D:\users\vuscan david\c#\CalculatorNrComplexe\CalculatorNrComplexe\obj\x86\Debug\CalculatorNrComplexe.Form1.resources
+D:\users\vuscan david\c#\CalculatorNrComplexe\CalculatorNrComplexe\obj\x86\Debug\CalculatorNrComplexe.Properties.Resources.resources
+D:\users\vuscan david\c#\CalculatorNrComplexe\CalculatorNrComplexe\obj\x86\Debug\CalculatorNrComplexe.csproj.GenerateResource.Cache
+D:\users\vuscan david\c#\CalculatorNrComplexe\CalculatorNrComplexe\bin\Debug\CalculatorNrComplexe.exe
+D:\users\vuscan david\c#\CalculatorNrComplexe\CalculatorNrComplexe\bin\Debug\CalculatorNrComplexe.pdb
+D:\users\vuscan david\c#\CalculatorNrComplexe\CalculatorNrComplexe\obj\x86\Debug\CalculatorNrComplexe.exe
+D:\users\vuscan david\c#\CalculatorNrComplexe\CalculatorNrComplexe\obj\x86\Debug\CalculatorNrComplexe.pdb

@@ -5,3 +5,4 @@ D:\users\vuscan david\c#\Pong\Pong\obj\x86\Debug\Pong.Properties.Resources.resou
 D:\users\vuscan david\c#\Pong\Pong\obj\x86\Debug\Pong.csproj.GenerateResource.Cache
 D:\users\vuscan david\c#\Pong\Pong\obj\x86\Debug\Pong.exe
 D:\users\vuscan david\c#\Pong\Pong\obj\x86\Debug\Pong.pdb
+D:\users\vuscan david\c#\Pong\Pong\obj\x86\Debug\Pong.csprojResolveAssemblyReference.cache

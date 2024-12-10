@@ -1,0 +1,4 @@
+D:\users\vuscan david\c#\TestClase\TestClase\bin\Debug\TestClase.exe
+D:\users\vuscan david\c#\TestClase\TestClase\bin\Debug\TestClase.pdb
+D:\users\vuscan david\c#\TestClase\TestClase\obj\x86\Debug\TestClase.exe
+D:\users\vuscan david\c#\TestClase\TestClase\obj\x86\Debug\TestClase.pdb
